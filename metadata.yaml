@@ -1,0 +1,81 @@
+_repo: The-Wreck-of-the-Hesperus_13830
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Andrew, George T.
+    gutenberg_agent_id: '37788'
+    url: http://www.gutenberg.org/2009/agents/37788
+  illustrators:
+  - agent_name: Pierce, H. Winthrop (Herman Winthrop)
+    alias: Pierce, Herman Winthrop
+    birthdate: 1850
+    gutenberg_agent_id: '32009'
+    url: http://www.gutenberg.org/2009/agents/32009
+  - agent_name: Taylor, William Ladd
+    alias: Taylor, W. L. (William Ladd)
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '37574'
+    url: http://www.gutenberg.org/2009/agents/37574
+  - agent_name: Lewis, Arthur James
+    alias: Lewis, A. J. (Arthur James)
+    birthdate: 1824
+    deathdate: 1901
+    gutenberg_agent_id: '39661'
+    url: http://www.gutenberg.org/2009/agents/39661
+  - agent_name: Woodward, J. D.
+    gutenberg_agent_id: '39658'
+    url: http://www.gutenberg.org/2009/agents/39658
+  - agent_name: Halsall, William Formby
+    birthdate: 1841
+    deathdate: 1919
+    gutenberg_agent_id: '39659'
+    url: http://www.gutenberg.org/2009/agents/39659
+  - agent_name: Barnes, Hiram P. (Hiram Putnam)
+    alias: Barnes, H. P. (Hiram Putnam)
+    gutenberg_agent_id: '37771'
+    url: http://www.gutenberg.org/2009/agents/37771
+  - agent_name: Garrett, Edmund H. (Edmund Henry)
+    aliases:
+    - Garrett, E. H. (Edmund Henry)
+    - Garrett, Edmund Henry
+    birthdate: &id001 1853
+    deathdate: 1929
+    gutenberg_agent_id: '32199'
+    url: http://www.gutenberg.org/2009/agents/32199
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
+  - agent_name: Buhler, Augustus W. (Augustus Waldeck)
+    birthdate: *id001
+    deathdate: 1920
+    gutenberg_agent_id: '39660'
+    url: http://www.gutenberg.org/2009/agents/39660
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Longfellow, Henry Wadsworth
+    alias: Longfellow, Henry W.
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+description: '"Illustrations by H. Winthrop Pierce, Edmund H. Garrett, J.D. Woodward,
+  W.F. Halsall, W.L. Taylor, A. Buhler, H.P. Barnes, A.J. Lewis. Drawn and engraved
+  under the supervision of George T. Andrew"--Page [6]'
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2004-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hesperus (Ship) -- Poetry'
+- !lcsh 'Shipwrecks -- Massachusetts -- Poetry'
+- !lcc 'PS'
+title: The Wreck of the Hesperus
+url: http://www.gutenberg.org/ebooks/13830
