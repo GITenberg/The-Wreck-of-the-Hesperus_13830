@@ -39,13 +39,13 @@ contributor:
     aliases:
     - Garrett, E. H. (Edmund Henry)
     - Garrett, Edmund Henry
-    birthdate: &id001 1853
+    birthdate: 1853
     deathdate: 1929
     gutenberg_agent_id: '32199'
     url: http://www.gutenberg.org/2009/agents/32199
     wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
   - agent_name: Buhler, Augustus W. (Augustus Waldeck)
-    birthdate: *id001
+    birthdate: 1853
     deathdate: 1920
     gutenberg_agent_id: '39660'
     url: http://www.gutenberg.org/2009/agents/39660
@@ -64,6 +64,8 @@ creator:
 description: '"Illustrations by H. Winthrop Pierce, Edmund H. Garrett, J.D. Woodward,
   W.F. Halsall, W.L. Taylor, A. Buhler, H.P. Barnes, A.J. Lewis. Drawn and engraved
   under the supervision of George T. Andrew"--Page [6]'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13830#The-Wreck-of-the-Hesperus
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2004-10-22'
 gutenberg_type: Text
